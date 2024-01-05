@@ -4757,7 +4757,7 @@
       ]
     },
     "timezone": "",
-    "title": "Dedicated Atlas Clusters - Mongo Metrics",
+    "title": "Ops Manager MongoDB Clusters - Database Metrics",
     "uid": "W0lo7Gx7z",
     "version": 17,
     "weekStart": ""
